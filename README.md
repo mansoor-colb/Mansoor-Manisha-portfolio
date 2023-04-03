@@ -4,4 +4,4 @@ Portfolio collaboration Website
 
 ## Colaboration with
 
-- [@mansisha](https://github.com/officialmanishapoonia)
+- [@manisha](https://github.com/officialmanishapoonia)
